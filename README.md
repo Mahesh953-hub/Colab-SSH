@@ -6,10 +6,10 @@
 ###
 
 - SSH GPU
-[![SSH Google Colab With GPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akuhnet/Colab-SSH/blob/main/SSH_GPU_FIX.ipynb)
+[![SSH Google Colab With GPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mahesh953-hub/Colab-SSH/blob/main/SSH_GPU_FIX.ipynb)
 
 - 40 CPU
-[![40 CPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akuhnet/Colab-SSH/blob/main/40cpu.ipynb)
+[![40 CPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mahesh953-hub/Colab-SSH/blob/main/40cpu.ipynb)
 
 
 
